@@ -54,10 +54,10 @@ The system architecture consists of the following components:
    - Measure system performance in terms of detection accuracy, latency, and impact on legitimate traffic.
 
 ---
+## **Contributers:**
+1. **Anirudh C M**
+2. **Chandan T O**
+3. **Chirag V**
+4. **Likith Gowda**
+## **This project is under development**
 
-## **Usage Instructions**
-
-### **1. Setting Up the Environment**
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
